@@ -1,13 +1,13 @@
 ### <p align="center"> <b>Hi there! 👋 </b> </p>
 
 <p align="center">
-<b>I am Porson Lee, Full Stack Web Developer from Vancouver, Canada 🇨🇦.</b>
+<b>I am Porson Lee, Full Stack Developer with front-end focus from Vancouver, BC, Canada 🇨🇦.</b>
 </p>
 
 ##  About Me 🧑🏻‍💻
 
-- 🔭 I’m currently working on web design portfolio for individual clients for their personal business.
-- 🌱 I’m currently learning TypeScript and cooking while learning TypeScript.
+- 🔭 I’m currently working on web design portfolios for individual clients for their personal businesses.
+- 🌱 I’m currently re-learning or reviewing backend development and tinkering around with TypeScript.
 - ⚡ Fun fact: I love freestyle dancing to tell a story and teaching people how to spin on their head.
 - 😄 Pronouns: He/His/Him
 
