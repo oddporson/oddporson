@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on web design portfolios for individual clients for their personal businesses.
 - 🌱 I’m currently re-learning or reviewing backend development and tinkering around with TypeScript.
 - ⚡ Fun fact: I love freestyle dancing to tell a story and teaching people how to spin on their head.
-- 😄 Pronouns: He/His/Him
 
 Have worked in:
 
