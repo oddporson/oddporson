@@ -6,9 +6,10 @@
 
 ##  About Me 🧑🏻‍💻
 
-- 🔭 I’m currently working on web design portfolios for individual clients for their personal businesses.
-- 🌱 I’m currently re-learning or reviewing backend development and tinkering around with TypeScript.
-- ⚡ Fun fact: I love freestyle dancing to tell a story and teaching people how to spin on their head.
+- 🔭 I’m currently working as a Solutions & Sales Manager at non-profit organization, Wavefront Centre for Communication Accessibility where I focus on outsourcing assistive technology products to assist people who are Deaf and Hard of Hearing and make their lives easier in communication. As my side hustle, I freelance designing web pages for clients. 
+- 🌱 I’m currently practicing and honing my JavaScript skill and tinkering around with TypeScript.
+- ⚡ Fun fact: I love dancing and specialized in freestyle mainly and love teaching people some cool dance moves! 🕺🏻
+- I’m looking to collaborate on any cool applications that involves with accessibilities and learn about it!
 
 Have worked in:
 
