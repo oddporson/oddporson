@@ -6,10 +6,9 @@
 
 ##  About Me 🧑🏻‍💻
 
-- 🔭 I’m currently working as a Solutions & Sales Manager at non-profit organization, Wavefront Centre for Communication Accessibility where I focus on outsourcing assistive technology products to assist people who are Deaf and Hard of Hearing and make their lives easier in communication. As my side hustle, I freelance designing web pages for clients. 
+- 🔭 I’m currently working as a Solutions & Sales Manager at a non-profit organization, Wavefront Centre for Communication Accessibility. I have a part-time job where I freelance in designing web pages for clients. 
 - 🌱 I’m currently practicing and honing my JavaScript skill and tinkering around with TypeScript.
 - ⚡ Fun fact: I love dancing and specialized in freestyle mainly and love teaching people some cool dance moves! 🕺🏻
-- I’m looking to collaborate on any cool applications that involves with accessibilities and learn about it!
 
 Have worked in:
 
