@@ -6,8 +6,8 @@
 
 ##  About Me 🧑🏻‍💻
 
-- 🔭 I’m currently working as a Solutions & Sales Manager at a non-profit organization, Wavefront Centre for Communication Accessibility. I have a part-time job where I freelance in designing web pages for clients. 
-- 🌱 I’m currently practicing and honing my JavaScript skill and tinkering around with TypeScript.
+- 🔭 I’m currently working as a Solutions & Sales Manager at a non-profit organization, Wavefront Centre for Communication Accessibility. 
+- 🌱 I’m currently practicing and honing my JavaScript and ReactJS skill and tinkering around with TypeScript.
 - ⚡ Fun fact: I love dancing and specialized in freestyle mainly and love teaching people some cool dance moves! 🕺🏻
 
 Have worked in:
