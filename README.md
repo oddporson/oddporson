@@ -1,14 +1,14 @@
 ### <p align="center"> <b>Hi there! 👋 </b> </p>
 
 <p align="center">
-<b>I am Porson Lee, Full Stack Developer with front-end focus from Vancouver, BC, Canada 🇨🇦.</b>
+<b>I am Porson Lee, passionate full-stack developer with a front-end focus from Vancouver, BC, Canada 🇨🇦.</b>
 </p>
 
 ##  About Me 🧑🏻‍💻
 
 - 🔭 I’m currently working as a Solutions & Sales Manager at a non-profit organization, Wavefront Centre for Communication Accessibility. 
 - 🌱 I’m currently practicing and honing my JavaScript and ReactJS skill and tinkering around with TypeScript.
-- ⚡ Fun fact: I love dancing and specialized in freestyle mainly and love teaching people some cool dance moves! 🕺🏻
+- ⚡ Hobby: I enjoy dancing very much.
 
 Have worked in:
 
